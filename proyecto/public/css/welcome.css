@@ -1,0 +1,33 @@
+#container {
+    width: 580px;
+    height: 250px;
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.animal {
+    margin: 10px;
+    height: 80px;
+    width: 160px;
+}
+
+body {
+        background: rgb(94, 91, 91);
+
+}
+
+.zona {
+    height: 20rem;
+    width: 38rem;
+    border-width: 2px;
+    border-style: solid;
+    border-color:  rgb(0, 204, 255);
+}
+
+.plataforma {
+    background-color: lightgray;
+    margin: 10px;
+    height: 100px;
+    width: 200px;
+}
